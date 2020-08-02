@@ -1,3 +1,17 @@
 node -v 
 node --v version
 
+********************
+instala o git 
+criar um repositorio no site do git 
+
+git init
+git add comandos.txt
+git commit -m "primeiros comandos"
+
+git remote
+git remote add origem https://github.com/SandroFrazaoS/cursonode.git
+ git pull origin master --allow-unrelated-histories
+ 
+
+
