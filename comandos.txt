@@ -11,7 +11,15 @@ git commit -m "primeiros comandos"
 
 git remote
 git remote add origem https://github.com/SandroFrazaoS/cursonode.git
- git pull origin master --allow-unrelated-histories
+
+// baixa os arquivos localmente
+git pull origim master --allow-unrelated-histories
+
+para sair do arquivo Readme.md  :q 
+
+// comando para subir o arquivo no site
+// -u para pedir o osuario
+git push -u origim master 
  
 
 
