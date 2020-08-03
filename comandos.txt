@@ -20,6 +20,53 @@ para sair do arquivo Readme.md  :q
 // comando para subir o arquivo no site
 // -u para pedir o osuario
 git push -u origim master 
+
+**********************
+vamos instalar o cmder 
+
+******************
+subir servidor web 
+arquivo server.js 
+
+NPM gerenciador de pacote 
+Node pacote Maneger
+***********************
+
+site 
+https://www.npmjs.com/
+
+instalando um pacote de exemplo
+npm install bootstrap   // dessa forma era ira tira uma copia 
+npm i bootstrap 
+
+***********************************
+// global    yarn é um gerenciador de pacote mais rapido que o npm 
+// diferenca o npm ja vem com node o yarn tem que instalar
+// segunda o yarn é mais rapido ele garante instalado corretamente e na mesma ordem
+// o yarn para gerenciar as dependencias
+
+npm install -g yarn 
+
+//com yarn 
+yarn add bootstrap  
+yarn add global bootstrap 
+
+//veja se eu apagar a pasta node-modulo o bootstrap 
+//e executar, ele ira instalar apartir da denpendncia desde que voce tenha packahe-lock-json e year.lock
+yarn install 
+ou 
+npm install 
+// executa o package.json
+
+******************
+package.json 
+ele nao é obrigatorio desde que voce noa utilize modulos de terceiro
  
+ // para instalar o package.json o comando 
+ npm init  ou yarn init 
+
+********************
+node modules
+
 
 

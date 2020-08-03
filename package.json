@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonodejs",
+  "description": "Repositório do Curso de NodeJS da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroFrazaoS/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongdb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Sandro Frazao Specht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandroFrazaoS/cursonode/issues"
+  },
+  "homepage": "https://github.com/SandroFrazaoS/cursonode#readme"
+}
